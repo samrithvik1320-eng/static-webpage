@@ -1,0 +1,25 @@
+.detail{
+            display: flex;
+            background-color: grey;
+            height:800px;
+        }
+        img{
+            border-radius: 50px;
+            padding: 20px;
+        }
+        h2{
+            font-size: xx-large;
+
+        }
+        span{
+            color: rgb(66, 178, 90);
+        }
+        .button a{
+            text-decoration: none;
+            color: white;
+            background-color: black;
+            padding: 10px;
+            border-radius: 20px;
+            position: relative;
+            top: 20px;
+        }
